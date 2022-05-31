@@ -1,0 +1,118 @@
+body{margin:auto;
+    background-color: rgb(217, 243, 217);}
+#header{height: 50px;
+    background-color: #669006;}
+    #icon{font-size:35px;
+              font-weight: bolder;
+              font-family: Courier;
+              color: #134861;
+              position:absolute;}
+    #social{float:right;
+            margin-right: 10px;}
+    a{text-decoration: none;
+            color:black;}
+    .slogo{height: 40px;
+          width: 40px;
+          margin-top: -35px}
+ 
+ 
+.head{font-size: 25px;
+      text-align: center;
+      color:#134861;}
+#nav{padding-top: 10px;
+    margin-left: 400px
+    ;}
+#nav a{color:skyblue;}
+.main{height: 900px;
+      width: 90% ;
+      margin-left: 65px;}
+.filter{border: 1px solid blue;
+        height: 12%;
+        width: 100%; 
+        float: left;
+        line-height: 0px;  }
+.content{height: 100%;
+         width: 65%;
+         float: left;
+         margin-left: 4.6%;
+         }
+    .content1{height:260px ;
+              width: 100%;
+              box-shadow: 10px 20px 10px grey;}
+        .s11{width: 40%;
+           height: 100%;
+           ;
+           float: left;}
+           .s11>img{height:240px;
+            width: 100%;
+            border-radius: 35%;
+            margin-top: 10px;
+            }
+        .s12{height:100%;
+           width:50%;
+           margin-left: 2%;
+           float: left;}
+         .s12>button{background-color:orange;
+                    border-radius: 30px;}
+         
+     .content2{height: 260px ;
+              width: 100%;
+              box-shadow: 10px 20px 10px grey}
+              .s21{width: 40%;
+                height: 100%;
+                ;
+                float: left;}
+                .s21>img{height:240px;
+                 width: 100%;
+                 border-radius: 35%;
+                 margin-top: 10px;
+                 }
+             .s22{height:100%;
+                width:50%;
+                margin-left: 2%;
+                float: left;}
+              .s22>button{background-color:orange;
+                         border-radius: 30px;}
+     .content3{height:260px ;
+              width: 100%;
+              box-shadow: 10px 20px 10px grey}
+               .s31{width: 40%;
+                height: 100%;
+                ;
+                float: left;}
+                .s31>img{height:240px;
+                 width: 100%;
+                 border-radius: 35%;
+                 margin-top: 10px;
+                 }
+              .s32{height:100%;
+                width:50%;
+                margin-left: 2%;
+                float: left;}
+                .s32>button{background-color:orange;
+                    border-radius: 30px;}
+      .content4{height:260px ;
+                    width: 100%;
+                    box-shadow: 10px 20px 10px grey}
+                     .s41{width: 40%;
+                      height: 100%;
+                      ;
+                      float: left;}
+                      .s41>img{height:240px;
+                       width: 100%;
+                       border-radius: 35%;
+                       margin-top: 10px;
+                       }
+                    .s42{height:100%;
+                      width:50%;
+                      margin-left: 2%;
+                      float: left;}
+      
+              .s42>button{background-color:orange;
+                         border-radius: 30px;}
+@media screen and (max-width: 800px)
+{body{background-color: rgb(241, 129, 129);}}
+@media screen and (max-width:600px)
+{body{background-color: rgb(109, 212, 109);}} 
+                          
+                  
